@@ -25,6 +25,18 @@ El programa se ejecuta en Python. Para utilizarlo, sigue estos pasos:
 
 ![image](https://github.com/YourDaddySebas/Metodo-Trapecio-Python/assets/96026758/c3c763cc-c837-4833-b420-637c45b4be40)
 
+## Contribución
+
+¡Gracias por considerar contribuir a este proyecto! Si quieres contribuir, aquí tienes algunas pautas:
+
+1. Abre un *issue* para discutir el cambio que te gustaría realizar.
+2. Realiza un *fork* del repositorio y crea una rama con un nombre descriptivo (`git checkout -b mi-contribución`).
+3. Realiza tus cambios y asegúrate de que el código sea claro y bien documentado.
+4. Envía tus cambios en un *pull request* explicando los detalles de la contribución.
+
+**Nota:** Por favor, asegúrate de respetar el código de conducta de este proyecto.
+
+
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles sobre los términos de la licencia y los derechos concedidos.
