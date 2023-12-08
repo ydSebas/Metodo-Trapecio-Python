@@ -9,7 +9,6 @@ El método del trapecio es una técnica numérica para aproximar el valor de una
 ## Contenido
 
 - [Uso](#uso)
-- [Cómo funciona](#cómo-funciona)
 - [Ejemplo](#ejemplo)
 - [Contribución](#contribución)
 - [Licencia](#licencia)
@@ -18,18 +17,9 @@ El método del trapecio es una técnica numérica para aproximar el valor de una
 
 El programa se ejecuta en Python. Para utilizarlo, sigue estos pasos:
 
-1. Clona o descarga el repositorio en tu máquina local.
+1. Clona o descarga el repositorio en tu maquina.
 2. Asegúrate de tener Python instalado.
-3. Ejecuta el programa desde tu terminal o IDE.
+3. Ejecuta el programa desde tu terminal o IDE favorito.
 
-## Cómo funciona
-
-El código contiene una implementación del método del trapecio para aproximar integrales definidas. Utiliza una serie de subintervalos que se van duplicando desde 1 hasta 1024 para calcular la aproximación de la integral.
-
-## Ejemplo
-
-```python
-# Ejemplo de cómo usar el programa con tu integral específica
-# Coloca aquí tu integral y los parámetros necesarios para su cálculo
-
-# Luego ejecuta el programa y sigue las instrucciones
+##Ejemplo
+![image](https://github.com/YourDaddySebas/Metodo-Trapecio-Python/assets/96026758/c3c763cc-c837-4833-b420-637c45b4be40)
