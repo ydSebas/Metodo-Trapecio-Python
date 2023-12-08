@@ -24,3 +24,8 @@ El programa se ejecuta en Python. Para utilizarlo, sigue estos pasos:
 ## Ejemplo
 
 ![image](https://github.com/YourDaddySebas/Metodo-Trapecio-Python/assets/96026758/c3c763cc-c837-4833-b420-637c45b4be40)
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles sobre los términos de la licencia y los derechos concedidos.
+
