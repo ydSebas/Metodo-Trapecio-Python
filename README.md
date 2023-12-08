@@ -21,6 +21,6 @@ El programa se ejecuta en Python. Para utilizarlo, sigue estos pasos:
 2. Asegúrate de tener Python instalado.
 3. Ejecuta el programa desde tu terminal o IDE favorito.
 
-##Ejemplo
+## Ejemplo
 
 ![image](https://github.com/YourDaddySebas/Metodo-Trapecio-Python/assets/96026758/c3c763cc-c837-4833-b420-637c45b4be40)
